@@ -19,7 +19,7 @@ echo "Creating private folders we use later"
 
 echo "Creating personal folders"
 
-#[ -d $HOME"/DATA" ] || mkdir -p $HOME"/DATA"
+[ -d $HOME"/DATA" ] || mkdir -p $HOME"/DATA"
 #[ -d $HOME"/Insync" ] || mkdir -p $HOME"/Insync"
 
 echo "Installing .bashrc-personal"
@@ -27,16 +27,16 @@ echo "Installing .bashrc-personal"
 installed_dir=$(dirname $(readlink -f $(basename `pwd`)))
 
 cp $installed_dir/settings/shell-personal/.bashrc-personal ~
-cp $installed_dir/settings/shell-personal/.zshrc ~
-cp $installed_dir/settings/shell-personal/.zshrc-personal ~
+#cp $installed_dir/settings/shell-personal/.zshrc ~
+#cp $installed_dir/settings/shell-personal/.zshrc-personal ~
 
 echo "Installing personal settings of variety"
 
 cp $installed_dir/settings/variety/variety.conf ~/.config/variety/
 
-echo "Installing screenkey for teaching"
+#echo "Installing screenkey for teaching"
 
-cp $installed_dir/settings/screenkey/screenkey.json ~/.config/
+#cp $installed_dir/settings/screenkey/screenkey.json ~/.config/
 
 #echo "copy/paste wallpapers to variety"
 # DIR=$HOME"/.config/variety/Favorites/"

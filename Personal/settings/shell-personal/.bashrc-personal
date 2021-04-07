@@ -1,0 +1,12 @@
+#my personal aliases
+
+#more sensitive data
+[[ -f ~/.bashrc-private ]] && . ~/.bashrc-private
+
+#alias run-all-scripts-here="for script in ./*.sh ; do bash $script ; done"
+
+#alias var="cp ~/DATA/arcolinux-nemesis/Personal/settings/variety/variety.conf ~/.config/variety/variety.conf"
+
+#alias sctlstatuspdate="systemctl status update-mirror.service"
+
+#alias key-fix="cp /etc/pacman.d/gnupg/gpg.conf ~/.gnupg/"
