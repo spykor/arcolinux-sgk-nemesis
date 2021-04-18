@@ -1,26 +1,26 @@
-#file:///home/erik/Documents
-#file:///home/erik/Downloads Downloads
-#file:///home/erik/Pictures Pictures
-#file:///home/erik/Videos Videos
-#file:///etc/skel /etc/skel
-#file:///home/erik/.config .config
-#file:///home/erik/.local
-#file:///home/erik/ArcoLinux-Out
-#file:///home/erik/ArcoLinuxD-Out
-#file:///home/erik/Dropbox Dropbox
-#file:///home/erik/Insync Insync
-#file:///home/erik/Insync/JUST-CORETEAM
-#file:///home/erik/Insync/SHARED-CORETEAM
-#file:///home/erik/ARCO/ARCOLINUX
-#file:///home/erik/ARCO/ARCOLINUXB
-#file:///home/erik/ARCO/ARCOLINUX-DESKTOP
-#file:///home/erik/ARCO/ARCOLINUX-PKGBUILD/arcolinux-pkgbuild
-#file:///home/erik/ARCO/ARCOLINUX-PKGBUILD/arcolinux-pkgbuild-3party
-#file:///home/erik/ARCO/ARCOLINUX-PKGBUILD/arcolinux-pkgbuild-calamares
-#file:///home/erik/ARCO/ARCOLINUX-PKGBUILD/arcolinux-pkgbuild-icons
-#file:///usr/share/applications applications
-#file:///home/erik/.icons .icons
-#file:///usr/share/icons icons
-#file:///home/erik/.themes .themes
-#file:///usr/share/themes themes
-#file:///home/erik/DATA DATA
+file:///home/skipper/Documents
+file:///home/skipper/Downloads Downloads
+file:///home/skipper/Pictures Pictures
+file:///home/skipper/Videos Videos
+file:///etc/skel /etc/skel
+file:///home/skipper/.config .config
+file:///home/skipper/.local
+#file:///home/skipper/ArcoLinux-Out
+#file:///home/skipper/ArcoLinuxD-Out
+#file:///home/skipper/Dropbox Dropbox
+#file:///home/skipper/Insync Insync
+#file:///home/skipper/Insync/JUST-CORETEAM
+#file:///home/skipper/Insync/SHARED-CORETEAM
+#file:///home/skipper/ARCO/ARCOLINUX
+#file:///home/skipper/ARCO/ARCOLINUXB
+#file:///home/skipper/ARCO/ARCOLINUX-DESKTOP
+#file:///home/skipper/ARCO/ARCOLINUX-PKGBUILD/arcolinux-pkgbuild
+#file:///home/skipper/ARCO/ARCOLINUX-PKGBUILD/arcolinux-pkgbuild-3party
+#file:///home/skipper/ARCO/ARCOLINUX-PKGBUILD/arcolinux-pkgbuild-calamares
+#file:///home/skipper/ARCO/ARCOLINUX-PKGBUILD/arcolinux-pkgbuild-icons
+file:///usr/share/applications applications
+file:///home/skipper/.icons .icons
+file:///usr/share/icons icons
+file:///home/skipper/.themes .themes
+file:///usr/share/themes themes
+#file:///home/skipper/DATA DATA
