@@ -23,6 +23,7 @@ sudo pacman -S --noconfirm --needed keepassxc
 sudo pacman -S --noconfirm --needed hplip
 sudo pacman -S --noconfirm --needed p7zip
 sudo pacman -S --noconfirm --needed mc
+sudo pacman -S --noconfirm --needed python-pip
 
 sudo pacman -S --noconfirm --needed discord
 sudo pacman -S --noconfirm --needed gitfiend
